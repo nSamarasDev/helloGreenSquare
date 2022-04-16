@@ -7,4 +7,4 @@ helloGreenSquare
 * Linkedin: https://www.linkedin.com/in/nicholas-samaras-024126100/
 * Email: n.samaras4@outlook.com
 ## Special Thanks
-Everyone that makes it to this list.
+Everyone that makes it to this list.  This app is still in developement phase.
